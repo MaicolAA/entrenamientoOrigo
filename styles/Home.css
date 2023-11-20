@@ -1,0 +1,30 @@
+.Home {
+    margin-top: 75px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.Home header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Home h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.Home section {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    width: 90%;
+}
+
+.Home img {
+    width: 32%;
+}

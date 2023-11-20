@@ -1,0 +1,33 @@
+footer{
+    background-color: #D4D4D4;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    padding: 15px;
+}
+footer section{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:5%;
+    width:100%
+}
+footer section hr{
+    height: 160px;
+    border-left: 1px solid black;
+}
+.Info{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.Info div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Info i{
+    font-size:50px;
+}

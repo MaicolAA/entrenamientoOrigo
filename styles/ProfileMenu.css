@@ -1,0 +1,4 @@
+.profile-menu {
+    height: 100vh; /* Establecer la altura al 100% de la altura de la ventana */
+    overflow-y: auto; /* Agregar desplazamiento vertical si el contenido es más largo */
+}
